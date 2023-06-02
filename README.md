@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrkhatibian" target="blank"><img src="https://img.shields.io/twitter/follow/mrkhatibian?logo=twitter&style=for-the-badge" alt="mrkhatibian" /></a> </p>
 
-- 🔭 I’m currently working as .NET Developer at OHM Company [GIS](https://manasmartco.com/)
+- 🔭 I’m currently working as .NET Developer at [OHM Company](https://manasmartco.com/)
 
 - 💬 Ask me about **C#, ASP.NET, SQL Server, Git**
 
