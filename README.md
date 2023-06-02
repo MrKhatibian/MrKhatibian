@@ -1,4 +1,4 @@
-<img align="center" alt="Hi" width="100%" height="60%" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="center" alt="Hi" width="100%" height="60%" src="[https://www.lambdatest.com/resources/images/news24.gif](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)">
 <h1 align="center">Hi 👋, I'm Mohammad Khatibian</h1>
 <h3 align="center">A passionate .NET Developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif">
