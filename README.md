@@ -1,6 +1,6 @@
+<img align="center" alt="Coding" width="100%" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif">
 <h1 align="center">Hi 👋, I'm Mohammad Khatibian</h1>
 <h3 align="center">A passionate .NET Developer from Iran</h3>
-<img align="right" alt="Coding" width="100" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkhatibian&label=Profile%20views&color=0e75b6&style=flat" alt="mrkhatibian" /> </p>
 
