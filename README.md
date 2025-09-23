@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **C#, ASP.NET,JavaScript, SQL Server, Git
 
-- 📫 How to reach me **mr.khatibian98@gmial.com**
+- 📫 How to reach me **mr.khatibian98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkhatibian&show_icons=true&locale=en" alt="mrkhatibian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkhatibian&" alt="mrkhatibian" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkhatibian&" alt="mrkhatibian" /></p>-->
