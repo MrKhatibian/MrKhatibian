@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkhatibian&label=Profile%20views&color=0e75b6&style=flat" alt="mrkhatibian" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mrkhatibian" target="blank"><img src="https://img.shields.io/twitter/follow/mrkhatibian?logo=twitter&style=for-the-badge" alt="mrkhatibian" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/mrkhatibian" target="blank"><img src="https://img.shields.io/twitter/follow/mrkhatibian?logo=twitter&style=for-the-badge" alt="mrkhatibian" /></a> </p>-->
 
 - 🔭 I’m currently working as a GIS Developer at [Amard Company](https://www.amardco.com/)
 - 🔭 I’m currently working as a GIS Developer at [OHM Company](https://manasmartco.com/)
