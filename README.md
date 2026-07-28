@@ -1,32 +1,67 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khatibian</h1>
-<h3 align="center">A passionate GIS Developer</h3>
+<h3 align="center">GIS & WebGIS Developer | ArcGIS Enterprise Specialist | Utility Network Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrkhatibian&label=Profile%20views&color=0e75b6&style=flat" alt="mrkhatibian" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrkhatibian&label=Profile%20views&color=0e75b6&style=flat" alt="mrkhatibian" />
+  <!--<img src="https://img.shields.io/badge/Relocating%20to-Germany-black?style=flat&labelColor=black&color=e00" alt="relocation" />-->
+</p>
 
-<!--<p align="left"> <a href="https://twitter.com/mrkhatibian" target="blank"><img src="https://img.shields.io/twitter/follow/mrkhatibian?logo=twitter&style=for-the-badge" alt="mrkhatibian" /></a> </p>-->
+<p align="center">
+GIS Consultant and WebGIS developer with 5+ years of experience designing, building, and administering
+enterprise GIS platforms for utility, energy, and infrastructure organizations. Skilled in
+<b>ArcGIS Enterprise</b>, <b>ArcGIS API for JavaScript</b>, <b>ASP.NET Core</b>, and spatial databases,
+with a strong track record in geodata quality management and utility network documentation.
+</p>
 
-- 🔭 I’m currently working as a GIS Developer at [Amard Company](https://www.amardco.com/)
-- 🔭 I’m currently working as a GIS Developer at [OHM Company](https://manasmartco.com/)
+---
 
-- 💬 Ask me about GIS, ArcGIS API, ArcGIS Server, JavaScript, SQL Server, Git, C#, ASP.NET
+### 🔭 Currently
 
-- 📫 How to reach me **mr.khatibian98@gmail.com**
+- Working as a **GIS Developer**, building enterprise WebGIS applications and administering ArcGIS Enterprise environments (Portal for ArcGIS, ArcGIS Server, Data Store, Server Federation)
+- Automating GIS workflows with **ArcGIS Pro / ArcGIS Desktop extensions**, cutting analysis and editing time by up to 35%
+- Managing spatial databases with **1M+ utility network asset records** and driving geodata quality improvements
+- Actively exploring opportunities in the **German GIS / utility network documentation** market
 
-<h3 align="left">Connect with me:</h3>
+### 🧰 What I work with
+
+**Enterprise GIS & WebGIS**
+![ArcGIS](https://img.shields.io/badge/-ArcGIS%20Enterprise-2C7AC3?style=flat) ![ArcGIS Server](https://img.shields.io/badge/-ArcGIS%20Server-2C7AC3?style=flat) ![GeoServer](https://img.shields.io/badge/-GeoServer-3E9C35?style=flat) ![Portal for ArcGIS](https://img.shields.io/badge/-Portal%20for%20ArcGIS-2C7AC3?style=flat) ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=flat)
+
+**Geospatial Development**
+![ArcGIS API for JS](https://img.shields.io/badge/-ArcGIS%20API%20for%20JS-2C7AC3?style=flat) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat) ![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat) ![OpenLayers](https://img.shields.io/badge/-OpenLayers-1F6B75?style=flat) ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat)
+
+**Spatial Data & Databases**
+![SQL Server](https://img.shields.io/badge/-SQL%20Server%20Spatial-CC2927?style=flat) ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Standards & Services**
+![WMS](https://img.shields.io/badge/-WMS-555555?style=flat) ![WFS](https://img.shields.io/badge/-WFS-555555?style=flat) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-555555?style=flat)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![AutoCAD/Civil 3D](https://img.shields.io/badge/-AutoCAD%2FCivil%203D-E51937?style=flat)
+
+### 💡 Highlights
+
+- 🏗️ Designed and delivered **4 interactive WebGIS applications** improving planning and utility data access for 200+ municipal staff
+- ⚙️ Built backend services, REST APIs, and role-based authentication with ASP.NET Core for enterprise spatial data delivery
+- 📡 Published and maintained **30+ GIS web services** (WMS, WFS, REST) for real-time power grid geodata
+- 📊 Improved and validated **1M+ utility asset records**, raising geodata quality to 92%
+- 🗺️ Ran spatial analyses (buffering, overlay, network analysis) that reduced maintenance downtime by 12%
+
+### 🎓 Background
+
+- B.Sc. in Surveying Engineering — Noshirvani University of Technology (NIT), Iran
+- Esri Certifications: GIS Analysis, Spatial Data Science, GIS, Cartography
+- Languages: English, Persian (native)
+
+### 📫 Let's connect
+
 <p align="left">
-  <a href="https://fb.com/mrkhatibian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkhatibian" height="30" width="40" /></a>
-<!--<a href="https://twitter.com/mrkhatibian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrkhatibian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21979683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21979683" height="30" width="40" /></a>
-<a href="https://fb.com/mrkhatibian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrkhatibian" height="30" width="40" /></a>
-<a href="https://instagram.com/mrkhatibian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrkhatibian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrkhatibian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrkhatibian" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrkhatibian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrkhatibian" height="30" width="40" /></a>
-</p>-->
+  <a href="https://mrkhatibian.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:mr.khatibian98@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrkhatibian&show_icons=true&locale=en" alt="mrkhatibian" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkhatibian&show_icons=true&locale=en&layout=compact" alt="mrkhatibian" /></p>
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkhatibian&" alt="mrkhatibian" /></p>-->
+---
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrkhatibian&show_icons=true&locale=en" alt="mrkhatibian" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkhatibian&show_icons=true&locale=en&layout=compact" alt="mrkhatibian" />
+</p>
