@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khatibian</h1>
 <h3 align="center">GIS & WebGIS Developer | ArcGIS Enterprise Specialist | Utility Network Expert</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrkhatibian&label=Profile%20views&color=0e75b6&style=flat" alt="mrkhatibian" />
-  <!--<img src="https://img.shields.io/badge/Relocating%20to-Germany-black?style=flat&labelColor=black&color=e00" alt="relocation" />-->
-</p>
+  <img src="https://img.shields.io/badge/Relocating%20to-Germany-black?style=flat&labelColor=black&color=e00" alt="relocation" />
+</p>-->
 
 <p align="center">
 GIS Consultant and WebGIS developer with 5+ years of experience designing, building, and administering
@@ -36,8 +36,8 @@ with a strong track record in geodata quality management and utility network doc
 **Standards & Services**
 ![WMS](https://img.shields.io/badge/-WMS-555555?style=flat) ![WFS](https://img.shields.io/badge/-WFS-555555?style=flat) ![REST APIs](https://img.shields.io/badge/-REST%20APIs-555555?style=flat)
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![AutoCAD/Civil 3D](https://img.shields.io/badge/-AutoCAD%2FCivil%203D-E51937?style=flat)
+**Other Tools**
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![AutoCAD/Civil 3D](https://img.shields.io/badge/-AutoCAD%2FCivil%203D-E51937?style=flat)
 
 ### 💡 Highlights
 
@@ -58,10 +58,4 @@ with a strong track record in geodata quality management and utility network doc
 <p align="left">
   <a href="https://mrkhatibian.github.io" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:mr.khatibian98@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrkhatibian&show_icons=true&locale=en" alt="mrkhatibian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrkhatibian&show_icons=true&locale=en&layout=compact" alt="mrkhatibian" />
 </p>
